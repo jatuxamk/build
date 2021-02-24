@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/testi/static/js/main.7afed2f8.chunk.js",
+    "main.js.map": "/testi/static/js/main.7afed2f8.chunk.js.map",
+    "runtime-main.js": "/testi/static/js/runtime-main.869004f5.js",
+    "runtime-main.js.map": "/testi/static/js/runtime-main.869004f5.js.map",
+    "static/css/2.367932da.chunk.css": "/testi/static/css/2.367932da.chunk.css",
+    "static/js/2.1c4dc5fd.chunk.js": "/testi/static/js/2.1c4dc5fd.chunk.js",
+    "static/js/2.1c4dc5fd.chunk.js.map": "/testi/static/js/2.1c4dc5fd.chunk.js.map",
+    "index.html": "/testi/index.html",
+    "static/css/2.367932da.chunk.css.map": "/testi/static/css/2.367932da.chunk.css.map",
+    "static/js/2.1c4dc5fd.chunk.js.LICENSE.txt": "/testi/static/js/2.1c4dc5fd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/testi/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869004f5.js",
+    "static/css/2.367932da.chunk.css",
+    "static/js/2.1c4dc5fd.chunk.js",
+    "static/js/main.7afed2f8.chunk.js"
+  ]
+}
